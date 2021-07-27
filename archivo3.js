@@ -1,0 +1,1 @@
+var inicio  = "contenido archivo 3";
