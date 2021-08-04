@@ -9,6 +9,6 @@ Parrado de descripcion Parrado de descripcion Parrado de descripcion Parrado de 
 
 
 #Enlaces
-[pagina de instrucciones ] "www.capgemini.com"
+[pagina del proyecto](www.capgemini.com)
 
 #Instrucciones
